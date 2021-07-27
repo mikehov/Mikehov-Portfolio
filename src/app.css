@@ -17,9 +17,9 @@ body {
     overflow-x: hidden;
 }
 
-h1, h2, p {
+h1, h2, h3, p, a {
     font-family: 'Raleway', sans-serif;
-    color: var(--main-color);
+    color: var(--text-color);
 }
 
 h1 {
@@ -33,5 +33,9 @@ h2 {
 }
 
 p {
-    font-weight: 400;
+    font-weight: 500;
+}
+ 
+a {
+    font-weight: 500;
 }
