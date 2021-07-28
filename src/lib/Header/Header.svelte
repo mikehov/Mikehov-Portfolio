@@ -3,6 +3,7 @@
 
 	function menuOpen() {
 		document.querySelector(".nav-open").classList.toggle("menu-open")
+		console.log("HALALDAS")
 	};
 </script>
 
@@ -56,6 +57,7 @@
 		-webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, .5); 
 		box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, .5);
 		transition: ease 0.3s;
+		border-radius: 0.8rem 0rem 0rem 0.8rem;
 	}
 
 	li:hover {
