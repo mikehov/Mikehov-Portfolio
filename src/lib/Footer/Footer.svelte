@@ -8,6 +8,9 @@
         padding: 1.5rem;
         background-color: var(--black-color);
         text-align: center;
+        width: 100%;
+        /* position: absolute;
+        bottom: 0; */
     }
 
     p {

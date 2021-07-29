@@ -56,6 +56,13 @@
 		</p>
 		<a href="/project-correspondent" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600" data-aos-once="true">mikehovje@gmail.com</a>
 	</div>
+	<div class="project-blocks">
+		<a href="#"><img src="/mike.png" alt="Project Correspondent"></a>
+		<a href="#"><img src="/mike.png" alt="Project Awareness Campaign"></a>
+		<a href="#"><img src="/mike.png" alt="Project Generative Chessboard"></a>
+		<a href="#"><img src="/mike.png" alt="Project Mysterious"></a>
+		<a href="#"><img src="/mike.png" alt="Project Samen oud"></a>
+	</div>
 </section>
 
 <section id="contact">
@@ -243,6 +250,26 @@
 		background-color: var(--text-color);
 	}
 
+	#project .project-blocks {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: row;
+		justify-content: center;
+	}
+
+	#project .project-blocks img {
+		width: 10rem;
+		height: auto;
+		margin: 2rem;
+		border-radius: 50%;
+		transition: 0.3s all ease;
+	}
+
+	#project .project-blocks img:hover {
+		transform: translateY(-1rem);
+	}
+
+
 	#contact {
 		width: 100vw;
 		/* height: 100vh; */
@@ -309,6 +336,14 @@
 	#contact a {
 		padding: 1.5rem;
 		font-size: 1.2rem;
+	}
+
+	#contact span {
+		transition: 0.8s all ease;
+	}
+
+	#contact span svg:hover {
+		transform: translateY(-1rem) rotate(10deg);
 	}
 
 	#contact span svg {

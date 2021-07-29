@@ -30,7 +30,7 @@ h1, h2, h3, p, a {
 h1 {
     font-weight: bold;
     color: var(--white-color);
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 h2 {
@@ -39,8 +39,134 @@ h2 {
 
 p {
     font-weight: 500;
+    line-height: 1.6rem;
+    font-size: 1.2rem;
 }
  
 a {
     font-weight: 500;
+}
+
+
+
+/* PROJECT PAGES */
+
+.work h1 {
+    color: var(--text-color);
+    text-align: center;
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+.work h1::after {
+    content: '';
+    position: absolute;
+    bottom: -1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+
+    width: 100px;
+    height: 3px;
+    background-color: var(--main-color);
+}
+
+.work {
+    max-width: 70rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-bottom: 5rem;
+    margin-right: auto;
+    min-height: 80vh;
+}
+
+.work span.home-icon {
+    width: 2.5rem;
+    height: auto;
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+    fill: var(--text-color);
+    transition: 0.8s all ease;
+}
+
+.work span.home-icon:hover {
+    transform: rotate(360deg);
+    fill: var(--main-color);
+}
+
+.the-project {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 0rem;
+}
+
+.the-project .work-text {
+    margin-bottom: 1rem;
+}
+
+.the-project .work-images {
+
+}
+
+.the-project .work-images img {
+    width: 100%;
+    height: auto;
+    /* padding: 2rem; */
+}
+
+.the-project h2 {
+    padding: 1rem 0rem;
+}
+
+.work a.button {
+    padding: 1rem 1.5rem;
+    background-color: var(--second-color);
+    border-radius: 0.5rem;
+    text-decoration: none;
+    color: var(--white-color);
+    display: inline-block;
+    transition: 0.3s;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-style: normal;
+}
+
+.work a {
+    text-decoration: none;
+    font-style: italic;
+    transition: 0.3s;
+}
+
+.work img {
+
+}
+
+.work a.button {
+    animation-delay: 0s;
+}
+
+.work a.button:hover {
+    background-color: var(--main-color);
+}
+
+@media screen and (min-width: 48rem) {
+    h1 {
+        font-size: 3rem;
+    }
+
+    .the-project {
+        flex-direction: row;
+    }
+
+    .the-project .work-text {
+        width: 100%;
+        padding: 2rem;
+    }
+    
+    .the-project .work-images {
+        width: 100%;
+        padding: 2rem;
+    }
 }
