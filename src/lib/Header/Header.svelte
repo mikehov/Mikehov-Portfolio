@@ -1,6 +1,4 @@
 <script>
-	import { page } from '$app/stores';
-
 	function menuOpen() {
 		document.querySelector(".nav-open").classList.toggle("menu-open")
 		console.log("HALALDAS")

@@ -7,7 +7,7 @@
 
 :root {
     --main-color: #50ffa7;
-    --second-color: #da5dff;
+    --second-color: #272e6d;
     --text-color: #4d4d4d;
     --black-color: #333333;
     --gray-color: #e6e6e6;
@@ -100,6 +100,7 @@ a {
     display: flex;
     flex-direction: column;
     padding: 2rem 0rem;
+    flex-direction: column-reverse;
 }
 
 .the-project .work-text {
@@ -107,13 +108,12 @@ a {
 }
 
 .the-project .work-images {
-
 }
 
 .the-project .work-images img {
     width: 100%;
     height: auto;
-    /* padding: 2rem; */
+    margin-bottom: 1.5rem;
 }
 
 .the-project h2 {
@@ -149,6 +149,10 @@ a {
 
 .work a.button:hover {
     background-color: var(--main-color);
+}
+
+.work span {
+    color: var(--main-color);
 }
 
 @media screen and (min-width: 48rem) {

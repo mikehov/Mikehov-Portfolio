@@ -49,19 +49,18 @@
 
 <section id="project">
 	<div>
-		<h2 class="titleline" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="0" data-aos-once="true">Project</h2>
-		<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">
+		<h2 class="titleline" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="0" data-aos-once="true">Projects I'm proud off</h2>
+		<p class="padding-text" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">
 			These are a few projects I'm proud of, I learned from every single one them. Projects that
 			pushed me to my limits where I made the best out of them.
 		</p>
-		<a href="/project-correspondent" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600" data-aos-once="true">mikehovje@gmail.com</a>
 	</div>
 	<div class="project-blocks">
-		<a href="#"><img src="/mike.png" alt="Project Correspondent"></a>
-		<a href="#"><img src="/mike.png" alt="Project Awareness Campaign"></a>
-		<a href="#"><img src="/mike.png" alt="Project Generative Chessboard"></a>
-		<a href="#"><img src="/mike.png" alt="Project Mysterious"></a>
-		<a href="#"><img src="/mike.png" alt="Project Samen oud"></a>
+		<a href="/project-correspondent"><img src="/icon-correspondent.png" alt="Project Correspondent"></a>
+		<a href="/project-awareness-campaign"><img src="/icon-awareness.png" alt="Project Awareness Campaign"></a>
+		<a href="/project-generative-chessboard"><img src="/icon-chess.png" alt="Project Generative Chessboard"></a>
+		<a href="/project-mysterious"><img src="/icon-mysterious.png" alt="Project Mysterious"></a>
+		<a href="/project-samenoud"><img src="/icon-samenoud.png" alt="Project Samen oud"></a>
 	</div>
 </section>
 
@@ -229,7 +228,7 @@
 
 	#project {
 		width: 100vw;
-		height: 100vh;
+		min-height: 100vh;
 		background-color: var(--main-color);
 	}
 
@@ -257,18 +256,30 @@
 		justify-content: center;
 	}
 
+	#project .project-blocks a {
+		display: block;
+	}
+
 	#project .project-blocks img {
 		width: 10rem;
 		height: auto;
 		margin: 2rem;
 		border-radius: 50%;
 		transition: 0.3s all ease;
+		filter: grayscale(0%);
 	}
 
 	#project .project-blocks img:hover {
 		transform: translateY(-1rem);
+		filter: grayscale(0%);
 	}
 
+	#project .padding-text {
+		padding: 1.5rem;
+		margin-top: 2rem;
+		background-color: var(--white-color);
+		border-radius: 4px;
+	}
 
 	#contact {
 		width: 100vw;
@@ -414,6 +425,14 @@
 		margin-left: auto;
 		margin-bottom: 5rem;
 		margin-right: auto;
+	}
+
+	#project .project-blocks img {
+		filter: grayscale(100%);
+	}
+
+	#project .project-blocks img:hover {
+		filter: grayscale(0%);
 	}
 
 	#contact {
