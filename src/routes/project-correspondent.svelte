@@ -21,10 +21,10 @@ import ProjectAwarenessCampaign from "./project-awareness-campaign.svelte";
 	<article class="the-project">
 		<div class="work-text">
 			<h2 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">What is it?</h2>
-			<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">This project is made for the <a href="https://decorrespondent.nl/"> Correspondent,</a> 
-			it's website where you can read articles about anything. I made for this article a story telling website that explains the article from the point of view how I perceived it. I chose an article with the following title <span>"How we can get out of the trenches of our own right"</span>. This sounds maybe a little
-			unclear, but it's basically about how we as people develop our opinions and defending them at all cost cause of our moral intuitions. I found this topic really interesting and made a stunning website out of it where I'm really proud of.
-			The website has besides a nice design and good story, it also contains some animations made and illstrations made in Adobe After Effects and Adobe Illustrator. I really improved my knowledge of these programs during the project. 
+			<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">
+				This project is made for the <a href="https://decorrespondent.nl/"> "Correspondent",</a> it's website where you can read articles about anything. I made for this article a story telling website that explains the article from the point of view how I perceived it. I chose an article with the following title <span>"How we can get out of the trenches of our own right"</span>. This sounds maybe a little unclear, but it's basically about how we as people develop our opinions and defending them at all cost cause of our moral intuitions.
+				<br><br>
+				I found this topic really interesting and made a stunning website out of it where I'm really proud of. The website has besides a nice design and good story, it also contains some animations to make it feel less static, I also made illustrations made in Adobe After Effects and Adobe Illustrator. I really improved my knowledge of these programs during the project and I'm really proud of what I made and how much work I have put in to it. 
 			</p>
 			<a href="https://mikehov.github.io/Correspondent-loopgraven/" class="button" target="_blank" data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000" data-aos-once="true">Prototype Website</a>
 		</div>

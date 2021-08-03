@@ -16,8 +16,15 @@
 	<article class="the-project">
 		<div class="work-text">
 			<h2 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">What is it?</h2>
-			<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">This project is made for the <a href="https://decorrespondent.nl/"> Correspondent</a> 
-			it's website where you can read a
+			<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">The goal of this project was to pick a certain color, researching the emotions of that color and making a website out of it about these emotions.
+				So I chose for the color black cause we use the color a lot without realizing why we are doing it in the first place. By researching the color I got interested in making a <span>"mysterious"</span> website.
+				<br><br>
+				My goal of the project was to be a little creative and really trying to design with a purpose. So there are some elements in the website that you won't see often but looks really cool that can work.
+				So the navigation for example is vertical, it has still a lot space and it's still clear where you are at the website.
+				The prototype has been made in Adobe XD.
+				<br><br>
+				It's maybe not the prettiest design I have made, but I really like the creativity of certain elements in the website. I think it was a good project for me to be a little more creative and less standard designing.
+
 			</p>
 			<a href="https://xd.adobe.com/view/b5932537-b8d8-4e80-b956-a64d5910c457-e0c0/" class="button" target="_blank" data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000" data-aos-once="true">Prototype Website</a>
 		</div>

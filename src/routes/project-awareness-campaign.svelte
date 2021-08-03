@@ -16,12 +16,13 @@
 	<article class="the-project">
 		<div class="work-text">
 			<h2 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">What is it?</h2>
-			<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">The goal of this project is to think of a <span>"Awareness campaign"</span> and make a poster out of it. 
-				It's not just a simple poster, the position, size, meaning of every object in the poster is thought out. Just take a little moment to look at the poster and think about it for a little while. 
-				What do you see? What is it about? The more information you indentify, the easier it is to understand the poster. 
+			<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">The goal of this project is to think of an <span>"Awareness campaign"</span> and make a poster out of it.
+				It's not just a simple poster, the position, size, meaning of every object in the poster is thought out. Just take a little moment to look at the poster and think about it for a little while.
+				What do you see? What is it about? The more information you identify, the easier it is to understand the poster.
 				<br><br>
-				If you still haven't found it, its awareness campaign about people with depression, it's not a secret in this picture and it shouldn't been. So if someone is depressed that
-				you know of, support them and help them in the best way possible to get them back on track. If you want more information about this picture and the full meaning behind, feel free to ask.
+				If you still haven't found it, its awareness campaign about people with depression, it's not a secret in this picture and it shouldn't been. So if someone is depressed that you know of, support them and help them in the best way possible to get them back on track. If you want more information about this picture and the full meaning behind, feel free to ask.
+				<br><br>
+				I'm really proud of the project and liked a lot, I like looking at pictures, posters, etc and figuring out the meaning behind. It makes it more meaning full and it will have more impact. I love to Photoshop so for me it was a really nice project to improve my photoshop skills while making this poster.
 			</p>
 			<a href="img-beeldtaal.png" class="button" target="_blank" data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000" data-aos-once="true">Awarness Campaign Poster</a>
 		</div>

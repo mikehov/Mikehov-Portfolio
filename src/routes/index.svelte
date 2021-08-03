@@ -26,8 +26,8 @@
 	<!-- <div class="line"></div> -->
 	<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">
 		Well, hello there. I'm Mike Hovenier (22). I'm a Dutch student that currently studies
-		"Communcation and Multimedia Design" at the Hogeschool van Amsterdam. I consider myself as a
-		Visual and/or UX Designer.
+		"Communcation and Multimedia Design" (CMD) at the Hogeschool van Amsterdam (HvA). I consider myself as a
+		Visual and/or UX Designer. I'm currently looking for a internship in design to improve myself in desigining with a purpose.
 	</p>
 
 	<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">
@@ -52,7 +52,7 @@
 		<h2 class="titleline" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="0" data-aos-once="true">Projects I'm proud off</h2>
 		<p class="padding-text" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">
 			These are a few projects I'm proud of, I learned from every single one them. Projects that
-			pushed me to my limits where I made the best out of them.
+			pushed me to my limits where I made the best out of them. Of course these are not the only projects I'm proud of, but these are recent projects I want to show to the world.
 		</p>
 	</div>
 	<div class="project-blocks">
@@ -67,7 +67,9 @@
 <section id="contact">
 	<h2 class="titleline" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="0" data-aos-once="true">Contact</h2>
 	<article data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">
-		<h3 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">Feel free to contact me :)</h3>
+		<h3 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">Feel free to contact me :)
+			<br> Looking for a internship
+		</h3>
 		<a href="mailto:mikehovje@gmail.com" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600" data-aos-once="true">mikehovje@gmail.com</a>
 		<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 		<!-- <img src="/mail.png" alt="Picture mail" /> -->

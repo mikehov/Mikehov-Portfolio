@@ -16,7 +16,13 @@
 	<article class="the-project">
 		<div class="work-text">
 			<h2 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">What is it?</h2>
-			<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">dfs
+			<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">
+				I got the assignment to make an application for people that are getting older and need to move more frequently because of COVID-19. The important part of the project was to keep them happy and healthy even though they need to sit at home and not making them feeling lonely.
+				<br><br>
+				So I made an application for the Smart-TV so people can exercise together from home, they can exercise safety from home without feeling lonely because they can hear and see each other by screen. The Smart-TV is controlled by voice and phone (like a little remote).
+				Because of the natural language it's easier to use for older people. The prototype has been made in Adobe XD.
+				<br><br>
+				I'm really proud of the end result and think it looks and works great what is really made for the people.
 			</p>
 			<a href="https://xd.adobe.com/view/89686449-36d3-4adc-b6bd-5faeada4e4a9-dc3b/" class="button" target="_blank" data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000" data-aos-once="true">Prototype Website</a>
 		</div>

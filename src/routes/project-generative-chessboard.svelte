@@ -16,8 +16,15 @@
 	<article class="the-project">
 		<div class="work-text">
 			<h2 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">What is it?</h2>
-			<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">This project is made for the <a href="https://decorrespondent.nl/"> Correspondent</a> 
-			it's website where you can read a
+			<p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">
+				No this isn't just a chessboard, this is the art of a generative chessboard. This project is made in <a href="/https://p5js.org/">p5.js</a>, it's kind of code what looks like JavaScript but a little different.
+				<br><br>
+				Normally with a game of chess a match exist a certain amount of moves and ends when someone has been checkmated, forfeits, forced reputation or draws. Every chess game is different, so also the moves that are being made during the game.
+				But what if you can see all these moves at the end of the game by drawing a line for each move? What will the board look like, that is the hidden art of chess made in this project.
+				<br><br>
+				I have never worked before with <a href="/https://p5js.org/">p5.js</a> so had to learn it from scratch. I had some knowledge about JavaScript, but just by a little.
+				So in the end I'm pretty proud of what it resulted in by watching tutorials, reading articles, trying stuff out and asking people for help that are more experienced.
+				I'm not really someone that loves to JavaScript, but it's really cool and important for me to have some sort knowledge about the code language.
 			</p>
 			<a href="https://mikehov.github.io/Generative-art/basic_website" class="button" target="_blank" data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000" data-aos-once="true">Prototype Chessboard</a>
 		</div>
