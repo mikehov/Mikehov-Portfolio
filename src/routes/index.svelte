@@ -134,7 +134,7 @@
 	#home-background {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./background.png);
+		background-image: url(/background.png);
 		background-size: cover;
 		background-position: left center;
 
